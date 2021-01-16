@@ -1,7 +1,7 @@
 # Hierarchy Analysis
-  Data files and code used for hierarchical organization analysis in Ma et al (2021) "Hierarchy in sensory processing reflected by innervation balance on cortical interneurons"
-  Add the folder path into pathlist with all these files inside
-  Adapted from Harris et al (2019) "Hierarchical organization of cortical and thalamic connectivity", GitHub https://github.com/AllenInstitute/MouseBrainHierarchy 
+  * Data files and code used for hierarchical organization analysis in Ma et al (2021) "Hierarchy in sensory processing reflected by innervation balance on cortical interneurons"
+  * Add the folder path into pathlist with all these files inside
+  * Adapted from Harris et al (2019) "Hierarchical organization of cortical and thalamic connectivity", GitHub https://github.com/AllenInstitute/MouseBrainHierarchy 
 ## hierarchy_scores_compute_shuffle.m
   Script used to compute hierarchy scores and global hierarchy scores with original or shuffled connectivity data
 ## figs_plot.m
